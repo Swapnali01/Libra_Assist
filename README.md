@@ -1,0 +1,1 @@
+The Library AI Agent is a smart chatbot that helps students use library services through WhatsApp. It is made using IBM Watson and Twilio. Students can search for books, check if they are available, renew books, and get book suggestions. The chatbot understands questions using AI and replies with the right answers. This project makes library tasks faster and easier for students.
